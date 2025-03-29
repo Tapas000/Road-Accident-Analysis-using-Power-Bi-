@@ -16,11 +16,11 @@ This project presents an interactive **Road Accident Analysis Dashboard** built 
 - **Dataset**: Road accident data collected from various sources.
 
 ## Screenshots
-### Screenshot 1: Overall Analysis View
+### Overall Analysis View
 ![image](https://github.com/user-attachments/assets/c1ef54ae-965a-4de9-b8ad-4c4175cd1aed)
 
 
-### Screenshot 2: Filtered View Based on Weather Conditions
+### Filtered View Based on Weather Conditions
 ![image](https://github.com/user-attachments/assets/81e4dbe6-8531-4bc5-91f2-53bc6d3d8d63)
 
 
@@ -28,7 +28,7 @@ This project presents an interactive **Road Accident Analysis Dashboard** built 
 1. Download and install **Power BI Desktop**.
 2. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/road-accident-analysis.git
+   git clone https://github.com/Tapas000/road-accident-analysis.git
    ```
 3. Open the **.pbix** file in Power BI Desktop.
 4. Interact with the visualizations and apply filters to analyze the data.
@@ -45,10 +45,5 @@ The dataset used in this project consists of:
 - Integrating ML models to predict accident severity.
 - More advanced filtering and drill-down features.
 
-## Author
-- **Your Name**
-- [GitHub Profile](https://github.com/yourusername)
 
-## License
-This project is licensed under the MIT License.
 
